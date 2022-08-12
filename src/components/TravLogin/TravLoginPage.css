@@ -1,0 +1,133 @@
+.travloginpage-first-div {
+    background-image: url('../Images/Homeaway-main.jpg');
+    background-size: 1500px 800px;
+}
+.travloginpage-div {
+    margin-top: 100px;
+    text-align:center;
+    max-width: 80%;
+    margin-left: 80px;
+}
+.travloginpage-h1 {
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    padding-left:100px;
+}
+.travloginpage-row2 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.travloginpage-form .form-control {
+    padding-right: 40px;
+    display: block;
+    width: 90%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 40px;
+    line-height: 50px;
+}
+.travloginpage-col {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.travloginpage-col4 {
+    margin-left: 20px;
+    margin-right: 10px;
+    width: 100%;
+    height: 56px;
+    font-size: 16px;
+    line-height: 1.5rem;
+    color: #323f4d;
+    text-align: center;
+    vertical-align: middle;
+}
+.travloginpage-btn {
+    margin-left: 20px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    width: 100%;
+    height: 56px;
+    font-size: 16px;
+    border-radius: 100px;
+    background-color: #0067db;
+    border-color: #0067db;
+    color: #fff;
+    line-height: 24px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+.travloginpage-row3 {
+    color: white;
+    margin-top: 150px;
+    text-align: center;
+    padding-bottom: 170px;
+}
+.travloginpage-logo-col {
+    font-size: 36px;
+    color: white;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    font-family: Lato,Arial,Helvetica Neue,sans-serif;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.travloginpage-logo-col1 {
+    padding-top: 25px;
+    align-content: center;
+}
+.travloginpage-dropdown1 {
+    margin-top: 3px;
+    padding-top: 3px; 
+    vertical-align: middle;
+    padding-left: 50px;
+    font-size: 36px;
+}
+.travloginpage-nav-btn {
+    background-color: #fff;
+    color: #0067db;
+    border-color: #fff;
+    min-height: 48px;
+    position: relative;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    border-radius: 100px;
+    margin: 10px 10px 10px 10px;
+    width: 100%;
+    font-size: 16px
+}
+.travloginpage-logo-col2 {
+    background: transparent;
+    margin-top: 10px;
+    float: right;
+    padding-left: 30px;
+}
+.travloginpage-link {
+    color: white;
+    margin-top: 24px;
+    text-align: center;
+    font-size: 12px;
+}
+.travloginpage-link a {
+    color: white;
+    font-size: 16px;
+}
+.travloginpage-logo-col a {
+    color: white;
+}

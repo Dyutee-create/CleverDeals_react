@@ -22,7 +22,7 @@ import "./user.css"
         // maybe trigger a loading screen
         return;
       }
-      if (user) navigate("/Dashboard");
+      if (user) navigate("Dashboard");
     }, [user, loading, navigate]);
     
     return (
@@ -60,7 +60,7 @@ import "./user.css"
           <Link to="/reset">Forgot Password</Link>
         </div>
         <div>
-          Don't have an account? <Link to="/register">Register</Link> now.
+          Don't have an account? <Link to="SignUp">Register</Link> now.
         </div>
       </div>
       </form>

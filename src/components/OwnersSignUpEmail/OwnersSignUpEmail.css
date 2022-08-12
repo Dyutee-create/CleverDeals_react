@@ -1,0 +1,122 @@
+.ownerssignupemail-row {
+    min-height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+    width: 100%;
+}
+.ownerssignupemail-image1 {
+    margin-left:50px;
+}
+.ownerssignupemail-header h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: "Roboto",Arial,sans-serif;
+    color: #353e44;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.ownerssignupemail-header h4 {
+    margin-right: 3px;
+    font-size: 18px!important;
+    color: #666;
+    text-align: center;
+    font-family: "Roboto",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    line-height: 20px;
+}
+.ownerssignupemail-first-div {
+    background: #f7f7f7;
+}
+.ownerssignupemail-form .form-control {
+    padding-right: 40px;
+    display: block;
+    width: 90%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 50px;
+}
+.ownerssignupemail-div {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 2px;
+    margin: 10px auto 30px;
+    max-width: 50%;
+    padding: 10px 15px 15px 15px;
+    border: 1px solid grey;
+}
+.ownerssignupemail-ad-left {
+    float: left;
+    width: 45%;
+    padding-bottom: 10px;
+}
+.ownerssignupemail-ad-right {
+    float: right;
+    width: 48%;
+    padding-right: 30px;
+}
+.ownerssignupemail-btn {
+    width: 100%;
+    max-width: 318px;
+    display: block;
+    margin: 0 auto;
+    padding: 9px 31px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 0;
+    background-color: #ff8a00;
+    color: #fff;
+    text-shadow: none;
+    border-color: #ff8a00;
+    text-align: center;
+    vertical-align: middle;
+    background-image: none;
+    border: 1px solid transparent;
+}
+.ownerssignupemail-line-div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #999;
+    font-style: italic;
+    font-size: 13px;
+}
+.ownerssignupemail-line-div:before,
+.ownerssignupemail-line-div:after {
+    background-color: #999;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 48%;
+}
+.ownerssignupemail-fb {
+    margin-bottom:10px;
+}
+.ownerssignupemail-google {
+    margin-bottom:7px;
+}
+.ownerssignupemail-msg1-div {
+    font-family: "Roboto",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    line-height: 20px;
+    color: #353e44;
+    padding-top: 7px;
+    font-size: 11px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.ownerssignupemail-lastmsg-div {
+    line-height: 1.5em;
+    margin-bottom: 40px;
+    font-size: 8pt;
+    text-align: center;
+    font-size: 10px;
+}
+.ownerssignupemail-form{ text-align:center;}

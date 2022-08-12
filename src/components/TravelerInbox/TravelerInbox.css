@@ -1,0 +1,133 @@
+
+.travelerinbox-row1 {
+    margin-top : 10px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid grey;
+    max-height: 70px;
+}
+.travelerinbox-row2 {
+    padding-top : 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid grey;
+    font-size: 16px;
+    color: #0067db;
+}
+.travelerinbox-img1 {
+    padding-top: 15px;
+}
+.travelerinbox-img2 {
+    text-align: left;
+}
+
+.travelerinbox-div1 {
+    text-align: center;
+}
+.travelerinbox-div1 h1{
+    margin-top: 20px;
+    font-size: 32px;
+    line-height: 2.5rem;
+    font-family: 'Lato','Roboto','Arial','Helvetica Neue',Helvetica,sans-serif;
+    font-weight: 700;
+    color: #323f4d;
+    text-align: center;
+}
+.travelerinbox-div1 h3 {
+    color: #5e6d77;
+    font-family: 'Lato','Roboto','Arial','Helvetica Neue',Helvetica,sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.container {
+    width: 100%;
+    margin: auto;
+}
+.travelerinbox-sent .travelerinbox-received h3 {
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align: left;
+    font-size:24px;
+    font-family: 'Lato','Roboto','Arial','Helvetica Neue',Helvetica,sans-serif;
+    display: block;
+    color: #323f4d;
+}
+.travelerinbox-sent {
+    padding-left: 50px;
+    width: 45%;
+    float: left;
+    padding-right:10px;
+}
+.travelerinbox-received {
+    width: 45%;
+    float: right;
+    text-align: left;
+}
+.travelerinbox-form .form-control {
+    padding-right: 40px;
+    display: block;
+    width: 45%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 16px;
+    height: 45px;
+    line-height: 50px;
+}
+
+.travelerinbox-col2 {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.travelerinbox-nav-btn {
+    background-color: #fff;
+    color: #0067db;
+    border-color: #fff;
+    min-height: 48px;
+    position: relative;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid grey;
+    white-space: nowrap;
+    border-radius: 100px;
+    margin: 5px 10px 10px 10px;
+    width: 100%;
+    font-size: 14px;
+}
+.travelerinbox-dropdown1 {
+    vertical-align: middle;
+    padding-left: 50px;
+    font-size: 36px;
+}
+.travelerinbox-successmsg {
+    font-size: 20px;
+    padding-bottom : 50px;
+    color: grey;
+}
+.travmesg-div {
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: 'Lato','Roboto','Arial','Helvetica Neue',Helvetica,sans-serif;
+    padding: 10px 10px 10px 10px;
+}
+.travinbox-btn {
+    width: 30%;
+    margin-left: 200px;
+    margin-top: 20px;
+    border-color: #0067db;
+    border-radius: 100px;
+    line-height: 30px;
+    font-size: 14px;
+}

@@ -12,6 +12,9 @@ import Login from "../users/Login"
 import SignUp from "../users/SignUp"
 import Dashboard from "../users/Dashboard"
 import Reset from "../users/Reset"
+import OwnersDashboard from "../OwnersDashboard/OwnersDashboard"
+import OwnersDashboardAll from "../OwnersDashboard/OwnersDashboardAll"
+import OwnersDashboardBooked from "../OwnersDashboard/OwnersDashboardBooked"
 
 
 
@@ -22,7 +25,6 @@ const Pages = () => {
     <>
       <Router>
         <Header />
-        <Dashboard/>
         <Routes>
           <Route exact path='/' element={<Home/>} />
           <Route exact path='/about' element={<About/>} />
@@ -34,6 +36,9 @@ const Pages = () => {
           <Route  path ='/users/SignUp' element ={ <SignUp />}/>
           <Route path= '/users/Dashboard' element = {<Dashboard/>}/>
           <Route path= '/users/Reset' element = {<Reset/>}/>
+          <Route exact path="/OwnersDashboard" component={OwnersDashboard}/>
+          <Route exact path="/OwnersDashboardAll" component={OwnersDashboardAll}/>
+          <Route exact path="/OwnersDashboardBooked" component={OwnersDashboardBooked}/>
         </Routes>
         <Footer />
       </Router>

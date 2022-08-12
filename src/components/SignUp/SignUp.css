@@ -1,0 +1,133 @@
+.signup-first-div {
+    background: #f7f7f7;
+}
+.signup-row {
+    min-height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+    width: 100%;
+    max-height: 50px;
+    vertical-align: middle;
+    color: #2a6ebb;
+}
+.signup-image1 {
+    margin-left:80px;
+}
+.signup-header h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: "Roboto",Arial,sans-serif;
+    color: #353e44;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.signup-header h4 {
+    font-size: 18px!important;
+    text-align: center;
+    color: #666;
+    line-height: 20px;
+}
+.signup-header {
+    margin-bottom: 20px;
+}
+.signup-form .form-control{
+    padding-right: 40px;
+    display: block;
+    width: 85%;
+    color: white;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 50px;
+}
+.signup-div {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 2px;
+    margin: 10px auto 30px;
+    max-width: 50%;
+    padding: 10px 15px 15px 15px;
+    border: 1px solid grey;
+}
+.signup-btn {
+    max-width: 318px;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    padding: 9px 31px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 0;
+    background-color: #ff8a00;
+    color: #fff;
+    text-shadow: none;
+    border-color: #ff8a00;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    align-items: flex-start;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.signup-div a {
+    color: white;
+}
+.signup-line-div {
+    padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #999;
+  font-style: italic;
+  font-size: 13px;
+}
+.signup-line-div:before, 
+.signup-line-div:after {
+  background-color: #999;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 48%;
+}
+.signup-line-div:before {
+  right: 0.5em;
+  margin-left: -40%;
+}
+.signup-line-div:after {
+  left: 0.5em;
+  margin-right: -40%;
+}
+.signup-form .form-group {
+    margin-bottom:10px;
+  }
+.signup-form{ text-align:center;}
+.signup-fb {
+    margin-bottom:10px;
+}
+.signup-google {
+    margin-bottom:7px;
+}
+.signup-msg1-div {
+    font-family: "Roboto",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    line-height: 20px;
+    color: #353e44;
+    padding-top: 7px;
+    font-size: 11px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.signup-lastmsg-div {
+    line-height: 1.5em;
+    margin-bottom: 100px;
+    font-size: 8pt;
+    text-align: center;
+    font-size: 10px;
+}

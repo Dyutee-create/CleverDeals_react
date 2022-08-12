@@ -1,0 +1,215 @@
+.ownersdash-first-div {
+    background: #f7f7f7;
+    background-image: url('../Images/Homeaway-main.jpg');
+    background-size: 1750px 850px;
+}
+.ownersdashall-first-div {
+    background: #f7f7f7;
+}
+.ownersdash-row1 {
+    background: white;
+    min-height: 70px;
+}
+.ownersdash-glyphicon1 {
+    color: white;
+    align-content: center;
+    padding-left:30px;
+    padding-top: 20px;
+    width:100%;
+    font-size: 20px;
+}
+.ownersdash-col1 {
+    padding-top: 7px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
+.ownersdash-col2 {
+    color: white;
+    font-size: 16px;
+    margin-top:10px;
+    padding-top: 10px; 
+    text-align: center;
+}
+.ownersdash-col3 {
+    color: white;
+    font-size: 16px;
+    margin-left:30px;
+    margin-top: 20px;
+}
+.listglyphicon2 {
+    color: white;
+    font-size: 20px;
+}
+.ownerdash-sec-div {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.ownerdash-sec-div h1 {
+    font-size: 36px;
+    line-height: 2.5rem;
+    margin-bottom: 30px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: #323f4d;
+}
+.ownerdash-sec-div h2 {
+    font-size: 24px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: grey;
+    line-height: 2rem;
+}
+.ownerdash-third-div {
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 400px;
+}
+.ownerdash-dropdown1 {
+    margin-top: 25px;
+}
+
+.ownersdashall-row1 {
+    background: white;
+    min-height: 70px;
+}
+.ownersdashall-glyphicon1 {
+    color: #0067db;
+    align-content: center;
+    padding-left:30px;
+    padding-top: 20px;
+    width:100%;
+    font-size: 20px;
+}
+.ownersdashall-col1 {
+    padding-top: 7px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
+.ownersdashall-col2 {
+    color: #0067db;
+    font-size: 16px;
+    margin-top:10px;
+    padding-top: 10px; 
+    text-align: center;
+}
+.ownersdashall-col3 {
+    color: #0067db;
+    font-size: 16px;
+    margin-left:30px;
+    margin-top: 20px;
+}
+.listglyphiconall2 {
+    color: #0067db;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.ownerdashall-sec-div {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.ownerdashall-sec-div h1 {
+    font-size: 36px;
+    line-height: 2.5rem;
+    margin-bottom: 30px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: #323f4d;
+}
+.ownerdashall-sec-div h2 {
+    font-size: 24px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: grey;
+    line-height: 2rem;
+}
+.ownerdashall-third-div {
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 400px;
+}
+.ownerdashall-dropdown1 {
+    margin-top: 25px;
+}
+
+.ownersdashbooked-row1 {
+    background: white;
+    min-height: 70px;
+}
+.ownersdashbooked-glyphicon1 {
+    color: #0067db;
+    align-content: center;
+    padding-left:30px;
+    padding-top: 20px;
+    width:100%;
+    font-size: 20px;
+}
+.ownersdashbooked-col1 {
+    padding-top: 7px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
+.ownersdashbooked-col2 {
+    color: #0067db;
+    font-size: 16px;
+    margin-top:10px;
+    padding-top: 10px; 
+    text-align: center;
+}
+.ownersdashbooked-col3 {
+    color: #0067db;
+    font-size: 16px;
+    margin-left:30px;
+    margin-top: 20px;
+}
+.listglyphiconbooked2 {
+    color: #0067db;
+    font-size: 20px;
+    padding-top: 20px;font-size: 20px;
+}
+.ownerdashbooked-sec-div {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.ownerdashbooked-sec-div h1 {
+    font-size: 36px;
+    line-height: 2.5rem;
+    margin-bottom: 30px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: #323f4d;
+}
+.ownerdashbooked-sec-div h2 {
+    font-size: 24px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: grey;
+    line-height: 2rem;
+}
+.ownerdashbooked-third-div {
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 400px;
+}
+.ownerdashbooked-dropdown1 {
+    margin-top: 25px;
+}
+.ownerdashall-lastmsg h1 {
+    color: #323f4d;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.ownderdashbooked-lastmsg h1 {
+
+    color: #323f4d;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.ownerpagination-details {
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-size: 20px;
+}

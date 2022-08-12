@@ -1,0 +1,131 @@
+.owners-first-div {
+    background: #f7f7f7;
+    padding-bottom: 50px;
+}
+.owners-row {
+    min-height: 60px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+    width: 100%;
+}
+.owners-div-left {
+    float: left;
+    width: 40%;
+    overflow: hidden;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.owners-div-right {
+    float : right;
+    text-align: left;
+    width: 50%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.owners-container {
+    width: 80%;
+    height: 600px;
+    margin:auto;
+    padding: 10px;
+    float: center;
+}
+.owners-form .form-control {
+    padding-right: 40px;
+    display: block;
+    width: 88%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 50px;
+}
+.owners-main-div {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 2px;
+    margin: 10px auto 30px;
+    max-width: 90%;
+    padding: 10px 15px 15px 15px;
+    border: 1px solid grey;
+}
+.owners-pwd-div {
+    font-size: 14px;
+    text-align: left;
+    font-family: "Roboto",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    line-height: 20px;
+    color: #2a6ebb;
+}
+.owners-btn {
+    background-color: #ff8a00;
+    border-color: #ff8a00;
+    width: 99%;
+    height: 45px;
+    color: white;
+    font-size: 18px;
+    padding: 9px 31px;
+    line-height: 1.33;
+    border-radius: 0;
+    text-align: center;
+    border: 1px solid transparent;
+    white-space: nowrap;
+}
+.owners-checkbox-div {
+    text-align: left;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+}
+.owners-msg1-div {
+    font-family: "Roboto",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    line-height: 20px;
+    color: #353e44;
+    padding-top: 20px;
+    font-size: 11px;
+    text-align: center;
+    
+}
+.owners-lastmsg-div {
+    line-height: 1.5em;
+    margin-bottom: 40px;
+    font-size: 8pt;
+    text-align: center;
+    font-size: 10px;
+}
+.owners-form .form-group {
+    margin-bottom:10px;
+    margin-top:10px;
+  }
+.owners-form{ 
+    text-align:center;
+}
+.owners-main-div h1{
+    font-family: "Roboto",Arial,sans-serif;
+    color: #666;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 20px;
+    display: block;
+    text-align: left;
+    padding: 10px 10px 10px;
+    border-bottom: 1px solid grey;
+}
+
+.owners-main-div h3{
+    font-family: "Roboto",Arial,sans-serif;
+    color: #666;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 20px;
+    display: block;
+    text-align: center;
+    padding: 10px 10px 10px;
+    
+}
